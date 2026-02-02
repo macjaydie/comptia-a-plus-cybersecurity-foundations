@@ -1,4 +1,4 @@
-\# Hardware Basics
+# Hardware Basics
 
 
 
@@ -10,7 +10,7 @@ This document covers the core physical components that make up a computer system
 
 
 
-\## Central Processing Unit (CPU)
+## Central Processing Unit (CPU)
 
 
 
@@ -20,11 +20,11 @@ The CPU is the "brain" of the computer. It processes instructions from programs 
 
 Key points:
 
-\- Performs calculations and executes commands
+- Performs calculations and executes commands
 
-\- Affects system speed and performance
+- Affects system speed and performance
 
-\- Modern CPUs include security features like virtualization support and hardware-based protections
+- Modern CPUs include security features like virtualization support and hardware-based protections
 
 
 
@@ -32,7 +32,7 @@ Key points:
 
 
 
-\## Random Access Memory (RAM)
+## Random Access Memory (RAM)
 
 
 
@@ -42,11 +42,11 @@ RAM is temporary memory used to store data that the CPU needs quickly.
 
 Key points:
 
-\- Volatile memory (data is lost when power is off)
+- Volatile memory (data is lost when power is off)
 
-\- More RAM allows better multitasking
+- More RAM allows better multitasking
 
-\- Malware and attackers may run processes in memory, making RAM important in forensic investigations
+- Malware and attackers may run processes in memory, making RAM important in forensic investigations
 
 
 
@@ -54,7 +54,7 @@ Key points:
 
 
 
-\## Storage Devices
+## Storage Devices
 
 
 
@@ -62,31 +62,31 @@ Storage devices keep data permanently.
 
 
 
-\### Hard Disk Drive (HDD)
+### Hard Disk Drive (HDD)
 
-\- Uses spinning disks
+- Uses spinning disks
 
-\- Slower but cheaper
+- Slower but cheaper
 
-\- More prone to physical damage
+- More prone to physical damage
 
 
 
-\### Solid State Drive (SSD)
+### Solid State Drive (SSD)
 
-\- No moving parts
+- No moving parts
 
-\- Faster and more reliable
+- Faster and more reliable
 
-\- Common in modern systems
+- Common in modern systems
 
 
 
 Security relevance:
 
-\- Drives can be encrypted to protect data
+- Drives can be encrypted to protect data
 
-\- Data recovery may be possible if drives are not securely wiped
+- Data recovery may be possible if drives are not securely wiped
 
 
 
@@ -94,7 +94,7 @@ Security relevance:
 
 
 
-\## Motherboard
+## Motherboard
 
 
 
@@ -104,11 +104,11 @@ The motherboard connects all hardware components together.
 
 Key points:
 
-\- Houses CPU, RAM, and expansion slots
+- Houses CPU, RAM, and expansion slots
 
-\- Contains firmware (BIOS/UEFI)
+- Contains firmware (BIOS/UEFI)
 
-\- Physical access to the motherboard can allow hardware attacks
+- Physical access to the motherboard can allow hardware attacks
 
 
 
@@ -116,7 +116,7 @@ Key points:
 
 
 
-\## Power Supply Unit (PSU)
+## Power Supply Unit (PSU)
 
 
 
@@ -126,9 +126,9 @@ The PSU provides power to all components.
 
 Key points:
 
-\- Converts electricity from wall outlet to usable power
+- Converts electricity from wall outlet to usable power
 
-\- Insufficient or failing power supplies can cause system instability or hardware damage
+- Insufficient or failing power supplies can cause system instability or hardware damage
 
 
 
@@ -136,7 +136,7 @@ Key points:
 
 
 
-\## Peripherals
+## Peripherals
 
 
 
@@ -146,21 +146,21 @@ Peripherals are external devices connected to a computer.
 
 Examples:
 
-\- Keyboard and mouse
+- Keyboard and mouse
 
-\- Monitor
+- Monitor
 
-\- USB devices
+- USB devices
 
-\- Printers
+- Printers
 
 
 
 Security relevance:
 
-\- USB devices can introduce malware
+- USB devices can introduce malware
 
-\- Unauthorized devices can be used to exfiltrate data
+- Unauthorized devices can be used to exfiltrate data
 
 
 
@@ -168,19 +168,19 @@ Security relevance:
 
 
 
-\## Why Hardware Knowledge Matters in Cybersecurity
+## Why Hardware Knowledge Matters in Cybersecurity
 
 
 
 Understanding hardware helps defenders:
 
-\- Recognize physical security risks
+- Recognize physical security risks
 
-\- Understand device-based attacks (e.g., malicious USB devices)
+- Understand device-based attacks (e.g., malicious USB devices)
 
-\- Support investigations involving seized equipment
+- Support investigations involving seized equipment
 
-\- Make informed decisions about system hardening
+- Make informed decisions about system hardening
 
 
 
